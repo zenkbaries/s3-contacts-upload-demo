@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/zenkbaries/s3-contacts-upload-demo#readme",
   "dependencies": {
-    "aws-sdk": "^2.496.0"
+    "aws-sdk": "^2.814.0"
   }
 }
